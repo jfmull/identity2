@@ -1,6 +1,6 @@
 function X = identity(X)
 %IDENTITY Returns the value passed as an argument
-%   In mathematicss, an identity function, also called an identity relation or identity map or
+%   In mathematicss, an identity function, also called an identity relation or identity map or d
 %   identity transformation, is a function that always returns the same value that was used as its
 %   argument. In equations, the function is given by f(x) = x.
 %  added comment from a new release. check if rake task gets it

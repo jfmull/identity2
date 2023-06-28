@@ -5,6 +5,7 @@ function X = identity(X)
 %   argument. In equations, the function is given by f(x) = x.
 %  added comment from a new release. check if rake task gets it
 %   https://en.wikipedia.org/wiki/Identity_function
+% change from 23b pre-release
 
     X;
 end

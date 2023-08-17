@@ -9,3 +9,8 @@ function Y = identity(X)
 
     Y = X;
 end
+
+% adding this function that isn't tested to reduce code coverage
+function notUsed(~)
+    1 + 1;
+end

@@ -1,4 +1,4 @@
-function X = identity(X)
+function Y = identity(X)
 %IDENTITY Returns the value passed as an argument
 %   In mathematicss, an identity function, also called an identity relation or identity map or d
 %   identity transformation, is a function that always returns the same value that was used as its
@@ -7,5 +7,5 @@ function X = identity(X)
 %   https://en.wikipedia.org/wiki/Identity_function
 % change from 23b pre-release
 
-    X;
+    Y = X;
 end

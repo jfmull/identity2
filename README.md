@@ -4,4 +4,4 @@
 ### This is just a demo repo
 Let's package it!
 
-update during DC bash2
+update during DC bash3

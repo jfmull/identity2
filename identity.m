@@ -11,7 +11,7 @@ function Y = identity(X)
     Y = X;
 end
 
-% adding this function that isn't tested to reduce code coverage 01/11/26 check directory viewer number4
+% adding this function that isn't tested to reduce code coverage 01/11/26 check directory viewer number5
 function notUsed(~)
     1 + 1;
 end
